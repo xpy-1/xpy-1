@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xpy-1
 - 👀 I’m interested in codding and Gaming
 - 🌱 I’m currently learning html, css and js
-- 📫 How to reach me: Rogeriovieiramanzano@hotmai.com
+- 📫 How to reach me: Rogeriovmxpy@gmail.com
 
 
 <!---
